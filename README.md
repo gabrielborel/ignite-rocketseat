@@ -9,3 +9,4 @@ Um repositório para centralizar todos os projetos feito durante a trilha de Rea
 
 ## 🌌 CHAPTER 2
 🚀 [Aula (dt.money)](https://github.com/gabrielborel/dtmoney)
+🚀 [Desafio 1 (rocketshoes)](https://github.com/gabrielborel/rocketshoes)
