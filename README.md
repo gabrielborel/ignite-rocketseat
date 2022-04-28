@@ -14,3 +14,7 @@ Um repositório para centralizar todos os projetos feito durante a trilha de Rea
 <br>
 🚀 [Desafio 2 (gorestaurant)](https://github.com/gabrielborel/gorestaurant)
 
+## 🌌 CHAPTER 3
+🚀 [Aula (ignews)](https://github.com/gabrielborel/ignews)
+<br>
+🚀 [Desafio 1 (spacetravelling)](https://github.com/gabrielborel/spacetravelling)
